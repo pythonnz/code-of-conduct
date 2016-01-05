@@ -17,9 +17,9 @@ If you make a complaint, the NZPUG committee undertake to:
 
 NZPUG may take any or all of the following measures:
 
-- The offender will be told to stop/modify their behaviour appropriately and a warning will be issued.
-- The offender will be asked to immediately leave the venue/space.
-- The offender will be prohibited from continuing to attend any NZPUG-based events.
-- The incident will be reported to New Zealand Police.
+- The offender may be told to stop/modify their behaviour appropriately and a warning will be issued.
+- The offender may be asked to immediately leave the venue/space.
+- The offender may be prohibited from continuing to attend any NZPUG-based events.
+- The incident may be reported to New Zealand Police.
 
 NZPUG is aware of the responsibility required to ensure a successful and productive community now and in years to come, and will take appropriate measures after an incident occurs to prevent it from happening again.
