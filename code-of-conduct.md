@@ -23,3 +23,7 @@ NZPUG may take any or all of the following measures:
 - The incident may be reported to New Zealand Police.
 
 NZPUG is aware of the responsibility required to ensure a successful and productive community now and in years to come, and will take appropriate measures after an incident occurs to prevent it from happening again.
+
+- - -
+
+NZPUG's Code of Conduct is licensed under the Creative Commons Attribution-Share Alike License 4.0 (CC-BY-SA) - https://creativecommons.org/licenses/by-sa/4.0/legalcode
