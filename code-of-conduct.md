@@ -1,4 +1,4 @@
-The New Zealand Python User Group (NZPUG) aims to foster an inclusive community which invites diverse groups of people from all backgrounds, regardless of age, body size, race, gender, gender identity and expression, sexuality, disability or religion to discuss and learn about all things Python in an environment of mutual respect, tolerance and encouragement.
+The New Zealand Python User Group (NZPUG) aims to foster an inclusive community which invites diverse groups of people from all backgrounds, regardless of age, body size, race, gender, gender identity and expression, sexuality, disability, or religion to discuss and learn about all things Python in an environment of mutual respect, tolerance and encouragement.
 
 NZPUG organises and sponsors a diverse range of online and physical spaces including (but not limited to) the NZPUG mailing list, the Kiwi PyCon conference, the #nzpug IRC channel, and local Python meetups. In order to achieve our goals, we encourage all participants to create a friendly, welcoming environment for everyone involved.
 
