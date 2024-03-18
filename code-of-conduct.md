@@ -6,7 +6,7 @@ We expect participants to treat each other respectfully. NZPUG will not tolerate
 
 If you see or hear something that makes you uncomfortable, we encourage you to make a complaint. To make a complaint:
 
-1. Contact the organisers of the event (if applicable), or the NZPUG committee confidentially via email to [safety@python.nz](mailto:safety@python.nz).
+1. Contact the organisers of the event (if applicable), or the NZPUG committee confidentially via email to [committee@python.nz](mailto:committee@python.nz).
 2. You may also contact any member of the [committee](https://python.nz/committee) individually if you prefer.
 
 If you make a complaint, the NZPUG committee undertake to:
